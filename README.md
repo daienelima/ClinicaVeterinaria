@@ -1,3 +1,2 @@
-# Projeto - POO - ADS - 2017.2
-Clinica Veterinaria - 2° Periodo 
-JAVA
+# Projeto-POO-Ads-2017.2
+Clinica Veterinaria Curso: ADS Prof.: Tito Kenzo Alunos: Daiene Melo de Lima Mario Ferreira
