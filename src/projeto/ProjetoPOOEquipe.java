@@ -1,10 +1,7 @@
 package projeto;
 
 import java.sql.Connection;
-import java.sql.SQLException;
 import projeto.erro.ConexaoException;
-import projeto.erro.DaoException;
-import projeto.erro.RegraExceptionCliente;
 import projeto.util.GerenciadorConexao;
 import projeto.util.GerenciadorConexaoImpl;
 
@@ -16,6 +13,7 @@ import projeto.util.GerenciadorConexaoImpl;
 
     /**
      * @param args the command line arguments
+     * @throws projeto.erro.ConexaoException
      */
     public static void main(String[] args) throws ConexaoException  {
         testaconexao();
