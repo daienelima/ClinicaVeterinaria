@@ -1,2 +1,2 @@
-# Projeto-POO-Ads-2017.2
-Clinica Veterinaria Curso: ADS Prof.: Tito Kenzo Alunos: Daiene Melo de Lima Mario Ferreira
+# Clinica Vetirinaria
+Dentro da pasta arquivos tem o scrip do banco e o jar do gerado de pdf.
